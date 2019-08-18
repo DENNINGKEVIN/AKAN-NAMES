@@ -4,7 +4,7 @@
 ## Description
 Akan names is a website designed to generate ghanian culture names according to day of birth, month of birth and gender.
 ## Project screenshot
-![](screenshot.png)
+![](akan.png)
 ## Setup/Installation Requirements
 
 * In the terminal navigate to the directory you want the project to reside in e.g (cd ~/Documents)
