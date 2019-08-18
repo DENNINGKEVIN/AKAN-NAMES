@@ -12,3 +12,6 @@ body{
 .form-group input{
   width: 40vh;
 }
+.form-group select{
+  width: 40vh;
+}
