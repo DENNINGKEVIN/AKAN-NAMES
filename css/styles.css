@@ -15,3 +15,8 @@ body{
 .form-group select{
   width: 40vh;
 }
+.jumbotron{
+  background-color: teal;
+ }
+ 
+ 
