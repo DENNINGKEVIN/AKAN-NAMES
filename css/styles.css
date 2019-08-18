@@ -8,3 +8,7 @@ body{
   font-style: oblique;
   font-family: 'Franklin Gothic Medium';
 }
+
+.form-group input{
+  width: 40vh;
+}
