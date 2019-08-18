@@ -3,19 +3,21 @@ body{
   font-family: 'Franklin Gothic Medium';
   
  }
+ 
  .container{
-  background-color: dimgrey;
-  font-style: oblique;
-  font-family: 'Franklin Gothic Medium';
-}
-
-.form-group input{
-  width: 40vh;
-}
-.form-group select{
-  width: 40vh;
-}
-.jumbotron{
+   background-color: dimgrey;
+   font-style: oblique;
+   font-family: 'Franklin Gothic Medium';
+ }
+ 
+ .form-group input{
+   width: 40vh;
+ }
+ 
+ .form-group select{
+   width: 40vh;
+ }
+ .jumbotron{
   background-color: teal;
  }
  
