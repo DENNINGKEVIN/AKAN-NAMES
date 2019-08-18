@@ -3,4 +3,8 @@ body{
   font-family: 'Franklin Gothic Medium';
   
  }
- 
+ .container{
+  background-color: dimgrey;
+  font-style: oblique;
+  font-family: 'Franklin Gothic Medium';
+}
